@@ -1,0 +1,137 @@
+div.items{
+    
+    width: 40%;
+}
+div.items img{
+    width: 100%;
+}
+div.items3{
+    width: 22%;
+    padding-left: 10px;
+}
+div.items3 img{
+    width: 100%;
+}
+div.items2{
+    display: flex;
+    
+}
+div.ject{
+    width: 50%;
+}
+div.col90{
+    width: 90%;
+    display: flex;
+    margin: 10px auto;
+    justify-content: space-evenly;
+}
+div.ject p a{
+    border: 1px solid black;
+    padding: 3px;
+    text-decoration: none;
+    margin-right: 10px;
+    color: darkgray;
+    font-size: 20px;
+}
+div.ject p a:hover{
+    color: white;
+    background-color: dimgray;
+}
+div.ject p{
+    font-size: 20px;
+}
+div.ttoan{
+    display: flex;
+    margin: 20px;
+}
+
+div.ttoan2{
+   
+    margin-left: 10px;
+    
+
+}
+div.ttoan2 a{
+    text-decoration: none;
+    color: dimgray;
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid black;
+
+}
+div.ttoan2 a:hover{
+    background-color:black;
+    color: white;
+}
+div.angle{
+    text-align: center;
+    font-size: 23px;
+    
+    
+}
+div.angle a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+    border-radius: 20px;
+    transition: 0.3;
+}
+div.angle a:hover{
+    background: #ADADAD;
+    transition-duration: 0.3s;
+}
+div.desgin{
+    display: flex;
+    justify-content: center;
+    
+}
+div.desgin h2{
+    margin-left: 20px;
+}
+div.desgin h2 a{
+    text-decoration: none;
+    color:darkslategray;
+
+}
+iv.desgin h2 a:first{
+    text-decoration: underline;
+    
+}
+div.imga{
+    width: 80%;
+    
+    margin: 10px auto;
+}
+div.head{
+    text-align: center;
+    margin-top: 15px;
+}
+div.colec{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+div.colec1{
+    width: 23%;
+    margin-left: 25px;
+    
+
+}
+div.colec2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+div.colec2{
+    border-bottom: 1px solid darkslategrey;
+
+}
+div.colec3{
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
